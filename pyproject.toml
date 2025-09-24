@@ -5,7 +5,7 @@ description = "A Python module for parallel optimization of expensive black-box 
 authors = ["Paul Knysh"]
 
 [tool.poetry.dependencies]
-python = "~3.9.7"
+python = ">=3.9.7"
 numpy = "^1.23.0"
 scipy = "^1.9.0"
 
