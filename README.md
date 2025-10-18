@@ -20,9 +20,13 @@ Don't forget to cite this note if you are using method/code.
 
 ## Installation
 
-Have `poetry` installed (https://python-poetry.org/docs/#installation). Then run:
+To install locally run either:
 
 `poetry install`
+
+or
+
+`pip install .`
 
 ## Objective function
 
